@@ -1,3 +1,8 @@
+##
+
+This repository contains the code we made during the Hackathon. Our purpose was to use Graph RAG to enhance the capability of our LLM and to exploit datas as best as we could. 
+The set of data we used to create the Graph isn't available for the moment. This repo only demonstrate the logic behind our Graph creation, and the use of the graph to enhance the LLM by building a powerfull ChatBot capable to answer specific and hard quesions taking context from multiple documents.
+
 # FORCE NPD LLM Hackathon
 
 This repository contains some materials for getting started in the FORCE Language Modeling Hackathon, 29-30 November and 1 December 2023.
